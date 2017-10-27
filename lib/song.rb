@@ -35,5 +35,5 @@ class Song
   def self.all
     @@songs
   end
-  extend Memorable
+
 end
